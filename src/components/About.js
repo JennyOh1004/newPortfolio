@@ -18,7 +18,7 @@ class About extends Component {
             <section>
               <div className="about">
                 <h3 className="about-title">
-                  <div className="box"></div>About.
+                  <div className="box"></div>ABOUT.
                 </h3>
                 <p className="about-p">
                   I’m originally from South Korea and earned my bachelors degree
